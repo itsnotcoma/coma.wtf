@@ -1,0 +1,17 @@
+img {
+    min-width: 350px;
+    width: auto;
+}
+
+.bg {
+    min-width: 350px;
+    height: 100vh;
+    background-image: url('../../../assets/img/bg.jpeg');
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
